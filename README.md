@@ -680,5 +680,5 @@ py.iplot(fig)
 
 
 
-<a href="https://plotly.com/~augutoboy/62.embed" target="_blank">Gráfico Estados Brasileiroso</a>
+<a href="https://plotly.com/~augutoboy/62.embed" target="_blank">Gráfico Estados Brasileiros</a>
 
