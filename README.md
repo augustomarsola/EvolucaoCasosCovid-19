@@ -212,7 +212,7 @@ py.iplot(fig)
 ```
 
 
-
+![Gráfico Geral](https://github.com/augustomarsola/EvolucaoCasosCovid-19/blob/master/imgs/graph1.png?raw=true)
 <a href="https://plotly.com/~augutoboy/56.embed" target="_blank">Gráfico Geral</a>
 
 
@@ -375,6 +375,7 @@ py.iplot(fig)
 
 
 
+![Gráfico Evolução](https://github.com/augustomarsola/EvolucaoCasosCovid-19/blob/master/imgs/graph2.png?raw=true)
 <a href="https://plotly.com/~augutoboy/58.embed" target="_blank">Gráfico Evolução</a>
 
 
@@ -680,5 +681,6 @@ py.iplot(fig)
 
 
 
+![Gráfico Estados Brasileiros](https://github.com/augustomarsola/EvolucaoCasosCovid-19/blob/master/imgs/graph3.png?raw=true)
 <a href="https://plotly.com/~augutoboy/62.embed" target="_blank">Gráfico Estados Brasileiros</a>
 
