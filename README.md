@@ -213,8 +213,7 @@ py.iplot(fig)
 
 
 
-
-[Gráfico Geral](https://plotly.com/~augutoboy/56.embed)
+<a href="https://plotly.com/~augutoboy/56.embed" target="_blank">Gráfico Geral</a>
 
 
 
@@ -376,8 +375,7 @@ py.iplot(fig)
 
 
 
-
-[Gráfico Evolução](https://plotly.com/~augutoboy/58.embed)
+<a href="https://plotly.com/~augutoboy/58.embed" target="_blank">Gráfico Evolução</a>
 
 
 
@@ -682,7 +680,5 @@ py.iplot(fig)
 
 
 
-
-[Gráfico Estados Brasileiros](https://plotly.com/~augutoboy/62.embed)
-
+<a href="https://plotly.com/~augutoboy/62.embed" target="_blank">Gráfico Estados Brasileiroso</a>
 
