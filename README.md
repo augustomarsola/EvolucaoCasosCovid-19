@@ -24,19 +24,6 @@ df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -133,19 +120,6 @@ df_countries.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -240,14 +214,7 @@ py.iplot(fig)
 
 
 
-
-<iframe
-    width="100%"
-    height="525px"
-    src="https://plotly.com/~augutoboy/56.embed"
-    frameborder="0"
-    allowfullscreen
-></iframe>
+[Gráfico Geral](https://plotly.com/~augutoboy/56.embed)
 
 
 
@@ -266,19 +233,6 @@ df_countrydate
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -423,14 +377,8 @@ py.iplot(fig)
 
 
 
+[Gráfico Evolução](https://plotly.com/~augutoboy/58.embed)
 
-<iframe
-    width="100%"
-    height="525px"
-    src="https://plotly.com/~augutoboy/58.embed"
-    frameborder="0"
-    allowfullscreen
-></iframe>
 
 
 
@@ -449,19 +397,6 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -609,19 +544,6 @@ df_Brasil
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -761,13 +683,6 @@ py.iplot(fig)
 
 
 
-
-<iframe
-    width="100%"
-    height="525px"
-    src="https://plotly.com/~augutoboy/62.embed"
-    frameborder="0"
-    allowfullscreen
-></iframe>
+[Gráfico Estados Brasileiros](https://plotly.com/~augutoboy/62.embed)
 
 
